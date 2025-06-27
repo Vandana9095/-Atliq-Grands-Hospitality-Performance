@@ -8,4 +8,5 @@ Occupancy %: Room occupancy percentage
 Cancellation Rate: Ratio of cancelled bookings to total bookings
 
 
-Check out my interactive Tableau dashboard here: [https://public.tableau.com/shared/JQ5FNNYCS?:display_count=n&:origin=viz_share_link]
+Check out my interactive Tableau dashboard here: https://public.tableau.com/views/AtliqGrandsHospitalityPerformanceDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
